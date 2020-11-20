@@ -2,6 +2,7 @@
  * 
  */
 package it.unibo.oop.jar.packages.pkg1;
+//test per git
 
 /**
  * Dummy class, just to try by-hand compilation.
